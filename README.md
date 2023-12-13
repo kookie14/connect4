@@ -175,6 +175,7 @@ I have only tested this code on Linux (more specifically, Ubuntu 18.04), but it 
 
 ```test_trained_model.py``` - this is a simple test for a multilayer perceptron which confronts it with two playing situations and prints the estimates of the Q-function (i.e., the output of the model) for each situation
 
-```play_against_model.py``` - simple text-based interface for playing against a trained feedforward neural network
+<!-- ```play_against_model.py``` - simple text-based interface for playing against a trained feedforward neural network
 
-```play_against_cnn.py``` - the same interface for playing against a trained CNN
+```play_against_cnn.py``` - the same interface for playing against a trained CNN -->
+'''sh run.sh''' - inference for playing against a trained feedforward neural network or CNN
